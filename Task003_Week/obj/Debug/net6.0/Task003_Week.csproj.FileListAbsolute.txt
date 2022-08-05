@@ -1,0 +1,15 @@
+C:\GIT\СSharp\Task003_Week\bin\Debug\net6.0\Task003_Week.exe
+C:\GIT\СSharp\Task003_Week\bin\Debug\net6.0\Task003_Week.deps.json
+C:\GIT\СSharp\Task003_Week\bin\Debug\net6.0\Task003_Week.runtimeconfig.json
+C:\GIT\СSharp\Task003_Week\bin\Debug\net6.0\Task003_Week.dll
+C:\GIT\СSharp\Task003_Week\bin\Debug\net6.0\Task003_Week.pdb
+C:\GIT\СSharp\Task003_Week\obj\Debug\net6.0\Task003_Week.csproj.AssemblyReference.cache
+C:\GIT\СSharp\Task003_Week\obj\Debug\net6.0\Task003_Week.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\СSharp\Task003_Week\obj\Debug\net6.0\Task003_Week.AssemblyInfoInputs.cache
+C:\GIT\СSharp\Task003_Week\obj\Debug\net6.0\Task003_Week.AssemblyInfo.cs
+C:\GIT\СSharp\Task003_Week\obj\Debug\net6.0\Task003_Week.csproj.CoreCompileInputs.cache
+C:\GIT\СSharp\Task003_Week\obj\Debug\net6.0\Task003_Week.dll
+C:\GIT\СSharp\Task003_Week\obj\Debug\net6.0\refint\Task003_Week.dll
+C:\GIT\СSharp\Task003_Week\obj\Debug\net6.0\Task003_Week.pdb
+C:\GIT\СSharp\Task003_Week\obj\Debug\net6.0\Task003_Week.genruntimeconfig.cache
+C:\GIT\СSharp\Task003_Week\obj\Debug\net6.0\ref\Task003_Week.dll
