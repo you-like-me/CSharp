@@ -1,0 +1,15 @@
+C:\GIT\СSharp\Task005_Number3\bin\Debug\net6.0\Task005_Number3.exe
+C:\GIT\СSharp\Task005_Number3\bin\Debug\net6.0\Task005_Number3.deps.json
+C:\GIT\СSharp\Task005_Number3\bin\Debug\net6.0\Task005_Number3.runtimeconfig.json
+C:\GIT\СSharp\Task005_Number3\bin\Debug\net6.0\Task005_Number3.dll
+C:\GIT\СSharp\Task005_Number3\bin\Debug\net6.0\Task005_Number3.pdb
+C:\GIT\СSharp\Task005_Number3\obj\Debug\net6.0\Task005_Number3.csproj.AssemblyReference.cache
+C:\GIT\СSharp\Task005_Number3\obj\Debug\net6.0\Task005_Number3.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\СSharp\Task005_Number3\obj\Debug\net6.0\Task005_Number3.AssemblyInfoInputs.cache
+C:\GIT\СSharp\Task005_Number3\obj\Debug\net6.0\Task005_Number3.AssemblyInfo.cs
+C:\GIT\СSharp\Task005_Number3\obj\Debug\net6.0\Task005_Number3.csproj.CoreCompileInputs.cache
+C:\GIT\СSharp\Task005_Number3\obj\Debug\net6.0\Task005_Number3.dll
+C:\GIT\СSharp\Task005_Number3\obj\Debug\net6.0\refint\Task005_Number3.dll
+C:\GIT\СSharp\Task005_Number3\obj\Debug\net6.0\Task005_Number3.pdb
+C:\GIT\СSharp\Task005_Number3\obj\Debug\net6.0\Task005_Number3.genruntimeconfig.cache
+C:\GIT\СSharp\Task005_Number3\obj\Debug\net6.0\ref\Task005_Number3.dll
