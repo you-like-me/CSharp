@@ -1,0 +1,15 @@
+C:\GIT\СSharp\Task001_SquareNumber\obj\Debug\net6.0\Task001_SquareNumber.csproj.AssemblyReference.cache
+C:\GIT\СSharp\Task001_SquareNumber\obj\Debug\net6.0\Task001_SquareNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\СSharp\Task001_SquareNumber\obj\Debug\net6.0\Task001_SquareNumber.AssemblyInfoInputs.cache
+C:\GIT\СSharp\Task001_SquareNumber\obj\Debug\net6.0\Task001_SquareNumber.AssemblyInfo.cs
+C:\GIT\СSharp\Task001_SquareNumber\obj\Debug\net6.0\Task001_SquareNumber.csproj.CoreCompileInputs.cache
+C:\GIT\СSharp\Task001_SquareNumber\bin\Debug\net6.0\Task001_SquareNumber.exe
+C:\GIT\СSharp\Task001_SquareNumber\bin\Debug\net6.0\Task001_SquareNumber.deps.json
+C:\GIT\СSharp\Task001_SquareNumber\bin\Debug\net6.0\Task001_SquareNumber.runtimeconfig.json
+C:\GIT\СSharp\Task001_SquareNumber\bin\Debug\net6.0\Task001_SquareNumber.dll
+C:\GIT\СSharp\Task001_SquareNumber\bin\Debug\net6.0\Task001_SquareNumber.pdb
+C:\GIT\СSharp\Task001_SquareNumber\obj\Debug\net6.0\Task001_SquareNumber.dll
+C:\GIT\СSharp\Task001_SquareNumber\obj\Debug\net6.0\refint\Task001_SquareNumber.dll
+C:\GIT\СSharp\Task001_SquareNumber\obj\Debug\net6.0\Task001_SquareNumber.pdb
+C:\GIT\СSharp\Task001_SquareNumber\obj\Debug\net6.0\Task001_SquareNumber.genruntimeconfig.cache
+C:\GIT\СSharp\Task001_SquareNumber\obj\Debug\net6.0\ref\Task001_SquareNumber.dll
